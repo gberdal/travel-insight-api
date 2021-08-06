@@ -72,6 +72,9 @@
 -   **averageFarePerPax:** Average fare price in USD per pax for rows matching given groupby combinations
 -   **sumFarePerPaxInUSD:** Sum of fare price in USD per pax for rows matching given groupby combinations
 
+### Sorting
+Results are sorted by the count value (descending) 
+
 
 ## Supported Query Criteria 
 -	Max number of `filter`s allowed in a query: 11
