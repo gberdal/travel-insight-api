@@ -71,6 +71,9 @@
 -   **count:** Total number of rows matching given groupby combinations
 -   **averageFarePerPax:** Average fare price in USD per pax for rows matching given groupby combinations (can only be used alongside `count`)
 
+### Sorting
+Results are sorted by the count value (descending) 
+
 
 ## Supported Query Criteria 
 -	Max number of `filter`s allowed in a query: 11
